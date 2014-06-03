@@ -5,3 +5,5 @@ create web page dynamically
 .displaying use of sessions
 .when to use md5 encryption(one way encryption)
 .when to use mysql_real_escape_string()(used in signup.php)
+.backup.php is the starting page
+.wamp server is being used
